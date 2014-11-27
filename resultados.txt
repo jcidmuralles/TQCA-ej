@@ -1,0 +1,15 @@
+../Documents/Agua_Ati_20140224.csv
+pH,Temp / °C,Prof / m
+7.48 21.87 10.02
+../Documents/Agua_Ati_20140318.csv
+pH,Temp / °C,Prof / m
+7.46 22.25 10.02
+../Documents/Agua_Ati_20140415.csv
+pH,Temp / °C,Prof / m
+7.54 23.76 9.80
+../Documents/Agua_Ati_20140523.csv
+pH,Temp / °C,Prof / m
+7.39 22.83 9.65
+../Documents/Agua_Ati_20140616.csv
+pH,Temp / °C,Prof / m
+7.53 23.50 10.43
